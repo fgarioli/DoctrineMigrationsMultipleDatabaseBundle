@@ -1,5 +1,5 @@
 {
-	"name": "avaibooksports/doctrine-migrations-multiple-database-bundle",
+	"name": "xcommerce/doctrine-migrations-multiple-database-bundle",
 	"type": "symfony-bundle",
 	"description": "Symfony DoctrineMigrationsMultipleDatabaseBundle",
 	"keywords": ["DBAL", "Migrations", "Schema", "Multiple databases"],
@@ -13,6 +13,10 @@
 			"name": "AvaiBook Sports",
 			"email": "desarrollo@avaibooksports.com",
 			"homepage": "https://www.avaibooksports.com"
+		},
+		{
+			"name": "Fernando Garioli",
+			"email": "f.ribeirogarioli@gmail.com"
 		}
 	],
 	"require": {
